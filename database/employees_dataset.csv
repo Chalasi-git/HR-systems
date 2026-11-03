@@ -1,0 +1,401 @@
+EmpCode,FullName,Gender,Age,Department,JobRole,HireDate,MonthlyIncomeLKR,YearsAtCompany,OverTime,JobSatisfaction,WorkLifeBalance,PerformanceRating,DistanceFromHome,AbsentDays,TrainingHours,Attrition
+EMP0001,Kavindi Selvam,Female,28,Finance,Accounts Assistant,2026-02-17,76500,0,Yes,3,2,3,1,5,0,No
+EMP0002,Thilina Cassim,Male,32,Operations,Operations Manager,2023-08-28,298000,3,Yes,1,3,4,2,1,16,No
+EMP0003,Dilini Ismail,Female,29,Human Resources,HR Executive,2022-05-27,141000,4,No,3,2,3,14,2,33,No
+EMP0004,Shanthi Nadarajah,Female,39,Operations,Operations Manager,2023-04-04,283500,3,Yes,4,3,4,1,0,17,No
+EMP0005,Shanthi Amarasinghe,Female,22,Finance,Accountant,2025-03-06,175500,1,Yes,4,3,3,11,8,7,No
+EMP0006,Nadeesha Nadarajah,Female,40,Operations,Supervisor,2023-07-16,165000,3,Yes,2,3,4,1,1,29,Yes
+EMP0007,Ravindran Ismail,Male,25,Operations,Operations Officer,2022-08-18,84000,4,Yes,3,1,4,2,12,23,No
+EMP0008,Shanthi Wickramasinghe,Female,40,Finance,Accounts Assistant,2020-11-22,104000,5,No,4,4,3,8,2,32,No
+EMP0009,Aisha Fernando,Female,32,Sales,Sales Manager,2021-09-12,258500,5,Yes,1,3,2,19,6,19,Yes
+EMP0010,Fathima Weerasinghe,Female,33,Operations,Operations Officer,2016-03-10,111500,10,Yes,2,3,3,6,4,11,No
+EMP0011,Faizal Amarasinghe,Male,45,Sales,Sales Executive,2005-09-18,155000,21,Yes,3,2,4,7,6,26,Yes
+EMP0012,Supun Gunawardena,Male,28,Customer Service,Team Leader,2019-07-11,126000,7,No,4,4,4,6,7,40,No
+EMP0013,Chamodi Amarasinghe,Female,37,Customer Service,Customer Service Agent,2025-07-22,71500,1,No,3,1,4,4,8,10,No
+EMP0014,Arjun Gunawardena,Male,24,IT,Software Engineer,2023-05-18,164500,3,No,4,3,3,1,12,56,No
+EMP0015,Sanjaya Cassim,Male,45,Customer Service,Team Leader,2004-12-02,212000,21,Yes,3,1,4,12,11,40,No
+EMP0016,Ravindran Gunawardena,Male,44,Customer Service,Customer Service Agent,2025-06-07,72000,1,No,2,3,4,1,5,0,Yes
+EMP0017,Sewwandi Wickramasinghe,Female,44,IT,Software Engineer,2025-11-01,203000,1,Yes,2,3,3,1,6,18,No
+EMP0018,Dilini Ismail,Female,27,Sales,Sales Executive,2026-09-14,95500,0,No,4,4,3,9,1,24,No
+EMP0019,Chamodi Rahman,Female,47,IT,Software Engineer,2015-06-25,264500,11,No,2,3,3,5,3,17,No
+EMP0020,Sachini Gunawardena,Female,46,Finance,Accountant,2014-08-16,241000,12,No,3,2,3,6,5,19,No
+EMP0021,Tharushi Dissanayake,Female,28,Sales,Sales Executive,2025-05-24,83000,1,Yes,2,3,3,5,5,15,Yes
+EMP0022,Dilshan Dissanayake,Male,35,Customer Service,Customer Service Agent,2025-10-14,82000,1,Yes,4,4,4,11,9,20,No
+EMP0023,Shanthi De Silva,Female,42,Operations,Supervisor,2025-10-26,150500,1,No,1,4,2,18,13,14,No
+EMP0024,Priya Weerasinghe,Female,38,Sales,Sales Executive,2025-09-08,114000,1,Yes,2,4,3,7,7,37,No
+EMP0025,Ashan Amarasinghe,Male,37,Customer Service,CS Manager,2023-07-30,281000,3,Yes,3,3,3,10,6,0,No
+EMP0026,Madhavi Dissanayake,Female,31,Operations,Supervisor,2019-12-14,140000,6,No,4,4,1,9,9,16,No
+EMP0027,Chamara Selvam,Male,34,Customer Service,Team Leader,2025-03-13,109000,1,No,1,3,3,38,8,23,No
+EMP0028,Madhavi Amarasinghe,Female,37,Sales,Sales Executive,2026-06-14,95000,0,Yes,3,1,3,1,5,27,No
+EMP0029,Pasindu Karunaratne,Male,51,Finance,Accounts Assistant,2026-01-02,81500,0,No,4,2,3,10,3,46,Yes
+EMP0030,Sewwandi Wickramasinghe,Female,40,Customer Service,Team Leader,2022-10-26,147500,4,No,4,3,3,3,8,26,No
+EMP0031,Dilini Selvam,Female,28,Customer Service,Team Leader,2020-02-27,126500,6,No,1,4,4,1,1,5,No
+EMP0032,Priya De Silva,Female,33,Customer Service,Customer Service Agent,2019-07-09,89500,7,No,3,3,3,11,6,8,No
+EMP0033,Chamara Weerasinghe,Male,35,Sales,Sales Executive,2022-10-28,104000,4,No,4,2,3,7,2,22,No
+EMP0034,Chamodi Jayasinghe,Female,29,Customer Service,Customer Service Agent,2024-09-21,85000,2,Yes,3,4,4,6,5,33,No
+EMP0035,Chamara Cassim,Male,35,Sales,Senior Sales Executive,2020-12-15,169500,5,No,3,2,4,6,9,26,No
+EMP0036,Chamodi Selvam,Female,36,Operations,Operations Officer,2024-05-26,81500,2,Yes,2,3,3,26,6,26,No
+EMP0037,Priya Amarasinghe,Female,38,Sales,Sales Executive,2012-06-16,144500,14,Yes,1,3,3,2,4,37,No
+EMP0038,Madhavi Amarasinghe,Female,34,Customer Service,Customer Service Agent,2025-12-15,67500,0,No,3,2,2,25,1,33,No
+EMP0039,Pasindu Hameed,Male,42,Sales,Sales Manager,2023-06-05,274500,3,No,3,3,3,6,9,22,No
+EMP0040,Chamara Gunawardena,Male,32,IT,QA Engineer,2022-03-17,189000,4,No,3,2,3,1,5,29,No
+EMP0041,Suresh Senanayake,Male,52,Customer Service,Customer Service Agent,2024-02-09,66000,2,No,4,3,3,5,7,19,Yes
+EMP0042,Chamara Senanayake,Male,26,Customer Service,Customer Service Agent,2021-03-27,91500,5,No,4,1,2,12,9,16,Yes
+EMP0043,Nadeesha De Silva,Female,43,Operations,Operations Manager,2007-06-30,487500,19,Yes,2,4,2,16,0,17,No
+EMP0044,Sachini Ismail,Female,22,Human Resources,HR Assistant,2026-01-16,92000,0,No,2,2,3,10,5,19,No
+EMP0045,Pasindu Rahman,Male,35,Customer Service,Customer Service Agent,2026-02-01,65000,0,No,4,3,4,6,13,25,No
+EMP0046,Kavitha Fernando,Female,41,Sales,Sales Executive,2020-04-02,93000,6,Yes,3,3,3,11,5,13,No
+EMP0047,Madhavi Perera,Female,30,Customer Service,Team Leader,2017-05-28,161000,9,Yes,3,2,4,2,5,13,No
+EMP0048,Imran Rajan,Male,28,Customer Service,Customer Service Agent,2022-04-16,64500,4,Yes,3,3,3,2,0,30,No
+EMP0049,Dilini De Silva,Female,43,Customer Service,Customer Service Agent,2019-10-19,76500,7,No,4,4,3,2,14,29,No
+EMP0050,Dilini Ismail,Female,37,Customer Service,Customer Service Agent,2024-05-29,82000,2,No,1,3,3,23,7,35,No
+EMP0051,Nadeesha Samarasinghe,Female,36,IT,QA Engineer,2026-10-02,166500,0,Yes,2,1,3,5,4,9,Yes
+EMP0052,Ashan Herath,Male,53,Customer Service,Customer Service Agent,2019-01-04,94500,7,No,4,1,3,6,15,17,Yes
+EMP0053,Priya Rajan,Female,34,Customer Service,Customer Service Agent,2013-06-01,103500,13,No,3,3,3,5,6,25,No
+EMP0054,Arjun Bandara,Male,32,Operations,Operations Officer,2026-01-25,91500,0,Yes,3,2,2,9,7,37,No
+EMP0055,Tharushi Dissanayake,Female,40,Sales,Sales Executive,2021-11-28,114500,4,No,2,2,3,3,4,24,No
+EMP0056,Lahiru Dissanayake,Male,44,Sales,Sales Manager,2022-05-20,259500,4,Yes,2,3,3,1,4,25,Yes
+EMP0057,Imran Dissanayake,Male,42,Customer Service,CS Manager,2023-07-30,289500,3,No,2,1,3,2,6,8,No
+EMP0058,Dilshan Samarasinghe,Male,27,Finance,Accountant,2025-04-29,154500,1,Yes,4,1,3,23,8,4,No
+EMP0059,Fathima Bandara,Female,45,Finance,Accounts Assistant,2023-04-10,78500,3,No,3,3,2,2,6,20,No
+EMP0060,Kavitha Rajan,Female,28,Customer Service,Customer Service Agent,2022-05-05,74500,4,Yes,4,4,3,5,0,41,Yes
+EMP0061,Tharushi Rajan,Female,29,Sales,Sales Executive,2018-08-29,94000,8,No,3,4,2,9,4,15,No
+EMP0062,Suresh Karunaratne,Male,42,Sales,Sales Executive,2026-04-21,94500,0,No,4,2,3,26,10,22,Yes
+EMP0063,Supun Samarasinghe,Male,32,Operations,Operations Manager,2023-07-14,336500,3,No,2,3,3,1,0,31,No
+EMP0064,Dilini Wickramasinghe,Female,34,Operations,Supervisor,2014-10-13,207000,12,No,3,3,3,5,0,31,No
+EMP0065,Nuzha Karunaratne,Female,31,Finance,Accounts Assistant,2023-10-24,75000,3,No,3,3,3,16,2,36,No
+EMP0066,Dilini De Silva,Female,23,Sales,Sales Executive,2026-03-22,95000,0,No,1,2,4,4,5,20,No
+EMP0067,Kavindi Perera,Female,34,Customer Service,CS Manager,2023-02-26,258000,3,No,4,3,3,3,0,33,No
+EMP0068,Tharushi Herath,Female,26,Customer Service,Customer Service Agent,2021-08-22,72000,5,No,3,3,3,3,4,30,No
+EMP0069,Tharushi Samarasinghe,Female,39,Customer Service,Team Leader,2018-09-06,158000,8,Yes,4,4,3,7,4,15,No
+EMP0070,Nethmi Samarasinghe,Female,22,Customer Service,Team Leader,2025-04-25,144500,1,No,3,3,3,2,5,21,No
+EMP0071,Kavitha Samarasinghe,Female,51,Customer Service,Team Leader,2019-10-18,127000,7,No,3,3,3,1,2,8,No
+EMP0072,Nimal Fernando,Male,36,Sales,Sales Executive,2026-05-05,96000,0,No,2,2,3,16,6,26,No
+EMP0073,Sanjaya Nadarajah,Male,45,Sales,Senior Sales Executive,2024-06-21,184000,2,Yes,4,4,3,8,0,13,Yes
+EMP0074,Anjali Bandara,Female,30,Customer Service,Customer Service Agent,2022-04-10,68500,4,Yes,4,2,3,10,7,36,Yes
+EMP0075,Tharushi Rahman,Female,52,Operations,Operations Officer,2018-02-01,89000,8,No,4,3,3,6,8,25,No
+EMP0076,Kasun Jayasinghe,Male,39,Operations,Supervisor,2020-06-22,173500,6,Yes,3,3,4,7,5,42,Yes
+EMP0077,Chamara Rahman,Male,37,Sales,Sales Executive,2011-05-21,116000,15,No,3,3,4,23,12,47,No
+EMP0078,Ishara Rahman,Female,34,Finance,Accountant,2023-07-08,176500,3,No,2,3,2,22,6,27,No
+EMP0079,Supun Bandara,Male,38,Operations,Operations Officer,2019-12-15,86500,6,Yes,1,4,3,3,6,39,Yes
+EMP0080,Arjun Jayasinghe,Male,33,Operations,Operations Officer,2025-12-14,76500,0,No,3,3,3,15,3,17,No
+EMP0081,Nuzha Senanayake,Female,33,Sales,Sales Executive,2024-05-23,109500,2,No,3,2,3,15,12,39,No
+EMP0082,Suresh Hameed,Male,37,Human Resources,HR Assistant,2025-09-18,84000,1,No,3,3,3,13,9,28,No
+EMP0083,Imran Bandara,Male,45,Customer Service,Team Leader,2022-08-14,121500,4,Yes,3,3,2,10,4,43,No
+EMP0084,Kumar Amarasinghe,Male,42,Sales,Sales Manager,2014-09-20,354000,12,No,3,3,3,8,11,55,No
+EMP0085,Mohamed Wickramasinghe,Male,36,IT,QA Engineer,2024-05-20,158500,2,No,3,3,3,6,0,21,Yes
+EMP0086,Sanjaya Herath,Male,32,IT,IT Manager,2023-07-29,374500,3,No,4,3,3,34,5,8,No
+EMP0087,Tharushi Dissanayake,Female,48,Operations,Operations Officer,2025-12-02,77000,0,No,4,3,3,6,4,30,No
+EMP0088,Ashan Gunawardena,Male,46,Customer Service,Customer Service Agent,2026-03-25,75000,0,No,3,3,3,9,0,36,No
+EMP0089,Nuzha Dissanayake,Female,44,Finance,Accountant,2022-07-09,187500,4,No,3,3,3,1,2,6,No
+EMP0090,Ashan Rajan,Male,42,IT,Software Engineer,2016-02-12,239000,10,No,2,3,4,5,0,27,No
+EMP0091,Ashan Ismail,Male,41,Operations,Supervisor,2024-01-14,144500,2,Yes,3,1,4,5,5,14,No
+EMP0092,Madhavi Bandara,Female,46,Operations,Supervisor,2025-12-24,132500,0,Yes,2,3,1,5,0,33,No
+EMP0093,Priya Jayasinghe,Female,45,Operations,Supervisor,2025-04-17,141500,1,Yes,4,1,4,2,4,12,No
+EMP0094,Suresh Samarasinghe,Male,26,Customer Service,Team Leader,2024-06-06,138000,2,No,4,3,4,3,4,7,No
+EMP0095,Tharushi Hameed,Female,34,Sales,Senior Sales Executive,2025-03-03,153000,1,No,1,4,3,4,8,21,No
+EMP0096,Kavindi Rahman,Female,38,Customer Service,Team Leader,2026-10-29,107500,0,Yes,2,3,3,18,7,37,No
+EMP0097,Tharindu Selvam,Male,44,Customer Service,Customer Service Agent,2017-11-26,96000,8,No,3,2,3,3,2,45,No
+EMP0098,Nadeem Jayasinghe,Male,43,Operations,Operations Officer,2026-02-24,92000,0,No,4,3,3,2,0,13,No
+EMP0099,Kumar Nadarajah,Male,33,Finance,Accounts Assistant,2022-11-23,77500,3,No,3,1,3,11,10,34,No
+EMP0100,Faizal Hameed,Male,33,IT,IT Manager,2023-04-06,427000,3,No,4,3,3,7,6,16,No
+EMP0101,Shanthi Rajan,Female,34,Operations,Operations Officer,2023-05-18,97000,3,Yes,3,4,3,15,9,19,No
+EMP0102,Kavindi Cassim,Female,42,Customer Service,Customer Service Agent,2005-04-13,115500,21,No,3,1,3,1,9,50,No
+EMP0103,Faizal Ismail,Male,27,Finance,Accountant,2021-11-20,149500,4,Yes,3,3,3,10,1,33,Yes
+EMP0104,Nimal Amarasinghe,Male,29,Customer Service,Customer Service Agent,2024-06-24,83000,2,Yes,1,1,3,8,10,17,No
+EMP0105,Dilshan Rajan,Male,34,Finance,Finance Manager,2023-01-05,430500,3,No,2,3,3,1,6,0,No
+EMP0106,Ravindran Perera,Male,38,Sales,Senior Sales Executive,2009-09-19,192000,17,Yes,3,2,3,6,5,0,No
+EMP0107,Kavindi De Silva,Female,24,Operations,Supervisor,2023-10-09,162500,3,Yes,1,3,4,1,6,17,No
+EMP0108,Imran Weerasinghe,Male,47,Sales,Sales Executive,2022-03-24,103500,4,Yes,4,2,4,2,7,12,No
+EMP0109,Priya Cassim,Female,27,Operations,Operations Officer,2020-01-01,97000,6,No,4,4,3,4,1,2,No
+EMP0110,Aisha Selvam,Female,43,Finance,Finance Manager,2017-06-11,445000,9,No,2,2,4,13,6,15,No
+EMP0111,Thilina Wickramasinghe,Male,40,Operations,Supervisor,2013-05-10,188000,13,No,3,3,4,12,0,35,No
+EMP0112,Arjun Nadarajah,Male,35,Human Resources,HR Manager,2022-10-30,364500,4,No,1,4,4,3,0,12,No
+EMP0113,Ishara Rahman,Female,37,Finance,Accounts Assistant,2020-05-02,100500,6,No,4,4,3,24,8,0,No
+EMP0114,Chamodi De Silva,Female,36,Sales,Senior Sales Executive,2024-02-12,163500,2,Yes,2,4,3,8,8,51,No
+EMP0115,Nuzha Jayasinghe,Female,44,Customer Service,Team Leader,2025-10-15,116000,1,No,3,1,2,5,0,21,No
+EMP0116,Supun Samarasinghe,Male,27,Operations,Operations Officer,2020-06-25,96500,6,Yes,1,4,3,2,8,15,No
+EMP0117,Lahiru Bandara,Male,25,Sales,Sales Executive,2022-10-10,95500,4,No,4,3,3,1,12,24,No
+EMP0118,Pasindu Cassim,Male,36,Finance,Accountant,2026-05-22,152500,0,No,3,3,3,15,13,12,Yes
+EMP0119,Madhavi Fernando,Female,45,Sales,Senior Sales Executive,2024-08-24,173500,2,No,4,3,2,1,8,35,No
+EMP0120,Imran Jayasinghe,Male,34,Finance,Accounts Assistant,2025-10-05,77000,1,No,4,3,3,5,6,27,No
+EMP0121,Shanthi Bandara,Female,27,Operations,Operations Officer,2026-02-14,75500,0,No,3,2,3,4,7,24,No
+EMP0122,Nuzha Senanayake,Female,41,Customer Service,CS Manager,2023-06-09,271000,3,Yes,4,4,3,10,1,30,No
+EMP0123,Mohamed Perera,Male,34,Customer Service,CS Manager,2023-04-09,251000,3,No,1,2,4,12,9,26,Yes
+EMP0124,Supun Hameed,Male,39,Human Resources,HR Assistant,2025-11-26,86000,0,No,3,2,2,12,0,35,No
+EMP0125,Faizal Amarasinghe,Male,42,Operations,Supervisor,2026-03-04,121500,0,No,2,3,4,1,2,20,Yes
+EMP0126,Suresh Rahman,Male,32,Customer Service,CS Manager,2023-05-06,301000,3,No,4,3,3,5,6,20,No
+EMP0127,Imran Nadarajah,Male,34,IT,Software Engineer,2013-07-12,248500,13,Yes,2,3,4,1,5,42,No
+EMP0128,Nadeesha Weerasinghe,Female,30,Finance,Accounts Assistant,2025-03-21,74500,1,No,4,1,3,7,2,24,No
+EMP0129,Dilshan Selvam,Male,36,Customer Service,Customer Service Agent,2020-03-12,87500,6,Yes,4,4,3,5,8,32,No
+EMP0130,Hiruni Amarasinghe,Female,27,Operations,Operations Officer,2024-03-25,106000,2,No,4,3,3,8,4,31,No
+EMP0131,Anjali Rajan,Female,39,Finance,Accounts Assistant,2024-07-24,89500,2,Yes,1,4,4,25,7,10,Yes
+EMP0132,Kasun Samarasinghe,Male,32,Finance,Finance Manager,2020-12-17,388500,5,No,3,2,3,6,9,21,No
+EMP0133,Fathima Samarasinghe,Female,53,Sales,Sales Executive,2014-09-21,122000,12,No,2,2,3,4,3,16,No
+EMP0134,Chamara Ismail,Male,39,Operations,Operations Officer,2020-07-13,109000,6,Yes,4,3,3,9,2,27,No
+EMP0135,Kumar Dissanayake,Male,43,Sales,Sales Executive,2012-08-12,145000,14,Yes,3,3,3,40,5,19,Yes
+EMP0136,Nadeem De Silva,Male,49,Finance,Accounts Assistant,2021-02-12,92000,5,No,4,2,3,29,5,18,No
+EMP0137,Fathima Wickramasinghe,Female,44,Finance,Accountant,2022-03-05,161500,4,No,3,3,3,1,0,12,No
+EMP0138,Imran Selvam,Male,41,Customer Service,Team Leader,2024-06-13,143000,2,No,3,3,3,12,4,36,No
+EMP0139,Shanthi Perera,Female,27,Customer Service,Team Leader,2025-06-01,136500,1,No,3,2,4,4,6,41,No
+EMP0140,Kumar Gunawardena,Male,33,Customer Service,CS Manager,2014-10-21,283000,12,No,3,4,4,7,10,24,No
+EMP0141,Aisha Nadarajah,Female,24,Operations,Supervisor,2023-02-09,136000,3,No,3,3,4,2,13,29,No
+EMP0142,Chamodi Weerasinghe,Female,43,Customer Service,Team Leader,2020-09-17,121500,6,No,4,4,3,2,10,13,No
+EMP0143,Tharushi Rahman,Female,30,Operations,Operations Officer,2024-12-16,94500,1,Yes,3,3,3,11,5,25,Yes
+EMP0144,Pasindu Selvam,Male,36,Customer Service,Team Leader,2020-07-26,122000,6,No,3,4,4,7,7,31,Yes
+EMP0145,Sanjaya Bandara,Male,39,IT,Software Engineer,2010-02-25,281500,16,No,4,1,1,14,6,16,No
+EMP0146,Priya Bandara,Female,47,Sales,Senior Sales Executive,2016-01-10,158000,10,Yes,3,1,3,5,6,21,No
+EMP0147,Supun Dissanayake,Male,50,Operations,Operations Officer,2024-03-15,88000,2,No,4,3,4,3,2,10,No
+EMP0148,Ravindran Karunaratne,Male,44,Operations,Supervisor,2026-07-02,119000,0,Yes,3,1,4,5,3,33,No
+EMP0149,Shanthi Selvam,Female,32,Finance,Finance Manager,2022-04-19,332500,4,No,2,1,3,4,10,35,No
+EMP0150,Tharindu Senanayake,Male,46,IT,QA Engineer,2022-03-09,185000,4,No,2,3,3,5,8,22,No
+EMP0151,Sewwandi Gunawardena,Female,44,Operations,Operations Officer,2025-03-23,95000,1,Yes,2,3,3,19,10,35,Yes
+EMP0152,Aisha Perera,Female,42,Finance,Accountant,2024-04-18,180500,2,No,4,2,3,20,14,36,No
+EMP0153,Madhavi De Silva,Female,32,Human Resources,HR Assistant,2024-05-05,81000,2,No,4,4,4,2,13,24,No
+EMP0154,Nuzha Perera,Female,37,Finance,Accountant,2025-04-12,155500,1,No,2,2,4,12,5,21,No
+EMP0155,Supun Bandara,Male,43,IT,QA Engineer,2021-12-16,173000,4,Yes,4,3,3,3,11,8,No
+EMP0156,Nadeesha Jayasinghe,Female,40,Customer Service,Team Leader,2025-10-13,139500,1,No,3,4,3,1,3,43,No
+EMP0157,Sachini Rajan,Female,35,Finance,Accounts Assistant,2025-09-18,82500,1,No,3,3,3,11,0,33,No
+EMP0158,Tharindu Rajan,Male,26,Finance,Accountant,2021-02-26,197000,5,Yes,3,4,3,8,11,21,No
+EMP0159,Anjali Fernando,Female,45,Sales,Sales Executive,2025-11-17,102000,0,No,2,2,3,6,9,35,No
+EMP0160,Kavindi Wickramasinghe,Female,33,Finance,Accounts Assistant,2021-09-04,97500,5,No,2,3,3,6,6,2,No
+EMP0161,Pasindu Perera,Male,42,Operations,Operations Officer,2024-11-09,86000,1,No,2,3,3,4,7,21,No
+EMP0162,Ishara De Silva,Female,35,Human Resources,HR Assistant,2019-06-22,81000,7,No,3,2,3,1,11,16,Yes
+EMP0163,Anjali De Silva,Female,38,Sales,Sales Executive,2025-07-31,113500,1,No,4,3,2,12,0,18,No
+EMP0164,Tharushi Samarasinghe,Female,46,Customer Service,Customer Service Agent,2024-01-26,84500,2,No,2,1,2,15,21,0,No
+EMP0165,Hiruni Gunawardena,Female,39,IT,Software Engineer,2022-09-23,172500,4,Yes,1,3,3,35,8,33,Yes
+EMP0166,Suresh Perera,Male,28,Sales,Senior Sales Executive,2019-02-16,171500,7,Yes,3,3,3,4,0,31,No
+EMP0167,Ruwan Selvam,Male,29,Operations,Operations Officer,2025-09-21,93500,1,No,3,3,3,2,4,11,No
+EMP0168,Kasun Herath,Male,42,Finance,Accounts Assistant,2022-04-29,93000,4,No,2,3,4,1,8,41,No
+EMP0169,Sachini Wickramasinghe,Female,28,Finance,Accounts Assistant,2022-01-18,91500,4,No,2,4,3,13,3,29,No
+EMP0170,Tharindu Rahman,Male,50,Finance,Accountant,2025-03-14,148000,1,No,1,3,3,1,4,27,No
+EMP0171,Kavindi Rahman,Female,36,IT,QA Engineer,2011-02-14,176500,15,No,3,2,4,8,4,26,No
+EMP0172,Arjun Dissanayake,Male,31,Sales,Sales Executive,2020-07-17,107500,6,Yes,1,4,2,40,6,30,Yes
+EMP0173,Tharushi Amarasinghe,Female,37,Human Resources,HR Assistant,2017-09-02,89000,9,No,3,3,3,16,0,18,No
+EMP0174,Dilini Fernando,Female,41,Customer Service,Team Leader,2025-07-28,131500,1,Yes,4,3,4,7,8,29,No
+EMP0175,Nadeem Karunaratne,Male,41,Customer Service,Team Leader,2024-11-15,134500,1,No,3,1,4,7,1,21,No
+EMP0176,Chamara Bandara,Male,36,Finance,Accountant,2021-03-05,210500,5,No,3,2,4,7,2,36,No
+EMP0177,Kavindi Cassim,Female,41,Finance,Accounts Assistant,2024-03-09,85500,2,No,1,3,3,1,0,0,No
+EMP0178,Sanjaya Wickramasinghe,Male,41,Operations,Operations Officer,2023-06-23,92000,3,No,3,2,3,23,7,21,No
+EMP0179,Ravindran Samarasinghe,Male,39,Finance,Accounts Assistant,2025-08-23,93000,1,No,4,3,3,10,0,16,No
+EMP0180,Shanthi Fernando,Female,44,Human Resources,HR Executive,2015-03-03,166000,11,No,4,4,3,3,10,13,No
+EMP0181,Chamodi Selvam,Female,37,Finance,Accounts Assistant,2025-05-30,79500,1,No,3,4,2,2,7,39,No
+EMP0182,Fathima Nadarajah,Female,31,Operations,Supervisor,2023-10-01,169000,3,Yes,2,4,3,13,3,18,No
+EMP0183,Tharindu Fernando,Male,23,Operations,Operations Officer,2024-07-26,85500,2,Yes,1,1,2,16,1,7,Yes
+EMP0184,Tharindu Senanayake,Male,30,IT,QA Engineer,2021-10-20,151500,5,No,4,3,3,11,5,28,No
+EMP0185,Hiruni De Silva,Female,25,Finance,Accounts Assistant,2025-03-11,99000,1,Yes,2,3,3,5,6,19,No
+EMP0186,Chamara Perera,Male,22,Sales,Sales Executive,2025-09-18,92500,1,Yes,2,3,4,2,11,23,No
+EMP0187,Supun Senanayake,Male,47,Customer Service,Customer Service Agent,2021-01-26,92500,5,No,2,3,4,2,7,38,No
+EMP0188,Kavindi Samarasinghe,Female,36,Operations,Supervisor,2026-10-20,146500,0,Yes,3,2,4,3,0,12,No
+EMP0189,Ruwan Rahman,Male,37,Sales,Senior Sales Executive,2022-12-14,185000,3,No,3,2,4,1,17,23,No
+EMP0190,Fathima Fernando,Female,34,Operations,Operations Officer,2013-04-25,138500,13,No,2,2,3,6,6,33,No
+EMP0191,Priya Karunaratne,Female,50,Customer Service,Customer Service Agent,2023-06-21,87500,3,Yes,2,2,1,19,5,25,No
+EMP0192,Madhavi Cassim,Female,43,Sales,Senior Sales Executive,2016-05-03,157000,10,No,3,3,3,25,3,5,No
+EMP0193,Nimal Wickramasinghe,Male,35,Customer Service,Customer Service Agent,2024-11-19,69000,1,No,3,3,3,4,4,37,No
+EMP0194,Nimal Fernando,Male,29,Sales,Senior Sales Executive,2021-11-11,141500,4,Yes,4,3,4,2,3,25,No
+EMP0195,Nadeesha Bandara,Female,29,Operations,Operations Officer,2018-02-05,102500,8,No,4,3,3,31,2,39,No
+EMP0196,Tharushi Perera,Female,27,Operations,Operations Officer,2026-02-16,75500,0,No,4,2,3,1,2,27,No
+EMP0197,Nuzha Senanayake,Female,22,Operations,Operations Officer,2025-04-20,105000,1,No,4,3,3,7,11,43,No
+EMP0198,Anjali Gunawardena,Female,35,Finance,Accounts Assistant,2021-10-17,109500,5,Yes,3,3,3,8,1,54,No
+EMP0199,Imran Samarasinghe,Male,22,Customer Service,Customer Service Agent,2024-12-16,79500,1,No,2,1,4,3,0,12,Yes
+EMP0200,Nadeem Dissanayake,Male,23,Customer Service,Team Leader,2025-03-06,139000,1,No,3,3,4,1,6,13,No
+EMP0201,Faizal Bandara,Male,42,Customer Service,Customer Service Agent,2022-12-12,87500,3,No,3,4,3,5,12,33,No
+EMP0202,Kavindi Senanayake,Female,29,Operations,Operations Officer,2021-02-09,102000,5,No,1,3,4,11,1,29,No
+EMP0203,Faizal Wickramasinghe,Male,24,Sales,Sales Executive,2023-02-10,96000,3,No,1,2,3,1,6,33,No
+EMP0204,Shanthi Senanayake,Female,47,Operations,Supervisor,2025-12-13,139500,0,Yes,1,4,3,14,11,15,No
+EMP0205,Fathima Fernando,Female,26,Human Resources,HR Assistant,2021-05-07,81500,5,No,1,3,4,18,9,21,No
+EMP0206,Kumar De Silva,Male,34,Sales,Sales Executive,2024-04-05,99500,2,No,4,1,3,6,0,30,No
+EMP0207,Ishara Bandara,Female,26,Customer Service,Customer Service Agent,2020-11-25,71000,5,Yes,3,4,3,4,6,14,No
+EMP0208,Lahiru De Silva,Male,41,Finance,Accounts Assistant,2023-07-17,93500,3,Yes,3,3,3,1,4,13,No
+EMP0209,Ravindran Fernando,Male,31,Customer Service,Customer Service Agent,2026-02-01,64500,0,No,2,2,4,8,10,12,No
+EMP0210,Pasindu Karunaratne,Male,35,Operations,Operations Officer,2023-02-01,88500,3,Yes,1,3,3,6,0,26,No
+EMP0211,Shanthi Gunawardena,Female,29,IT,QA Engineer,2026-09-30,145000,0,No,2,2,4,4,0,19,No
+EMP0212,Aisha Nadarajah,Female,22,Operations,Operations Officer,2024-12-11,80000,1,Yes,4,4,3,1,4,5,No
+EMP0213,Imran Dissanayake,Male,34,Finance,Accountant,2016-08-21,220000,10,No,3,3,3,1,8,33,No
+EMP0214,Chamodi Rajan,Female,37,Sales,Sales Executive,2020-10-13,96000,6,No,4,4,4,12,5,14,No
+EMP0215,Shanthi Ismail,Female,42,Customer Service,Customer Service Agent,2024-10-18,69000,2,Yes,2,3,3,2,0,29,Yes
+EMP0216,Aisha Jayasinghe,Female,40,Sales,Sales Executive,2021-07-19,126000,5,No,3,2,3,13,0,25,No
+EMP0217,Tharindu Hameed,Male,24,Operations,Operations Officer,2025-03-08,84500,1,No,4,2,4,1,2,0,No
+EMP0218,Madhavi Wickramasinghe,Female,23,Finance,Accounts Assistant,2024-03-18,88500,2,No,3,2,4,15,5,11,No
+EMP0219,Ruwan Weerasinghe,Male,46,Operations,Operations Officer,2023-11-13,82000,2,No,2,3,3,2,7,38,Yes
+EMP0220,Nadeesha Samarasinghe,Female,52,Customer Service,Customer Service Agent,2026-09-16,60000,0,Yes,2,2,3,4,6,40,Yes
+EMP0221,Faizal Senanayake,Male,31,Operations,Operations Officer,2026-07-04,97500,0,No,2,2,2,1,7,29,No
+EMP0222,Lahiru De Silva,Male,23,Human Resources,HR Assistant,2025-10-19,80000,1,No,1,3,3,10,6,33,No
+EMP0223,Lahiru De Silva,Male,46,Finance,Finance Manager,2020-06-01,369000,6,No,3,4,1,26,7,14,No
+EMP0224,Lahiru Wickramasinghe,Male,40,Human Resources,HR Executive,2026-05-11,142500,0,Yes,4,3,3,1,14,25,No
+EMP0225,Imran Rahman,Male,36,Human Resources,HR Manager,2022-12-19,270500,3,No,3,3,4,8,0,29,No
+EMP0226,Kavindi Senanayake,Female,32,Customer Service,CS Manager,2015-03-11,371000,11,No,3,3,4,14,8,17,No
+EMP0227,Chamara Senanayake,Male,36,Human Resources,HR Executive,2022-02-24,147000,4,No,4,1,3,5,11,10,No
+EMP0228,Aisha Selvam,Female,26,Customer Service,Customer Service Agent,2021-05-14,83500,5,No,3,3,3,9,13,17,No
+EMP0229,Nuzha Rajan,Female,33,Finance,Accounts Assistant,2024-03-10,93000,2,No,1,2,3,6,8,13,No
+EMP0230,Tharindu Samarasinghe,Male,23,Sales,Senior Sales Executive,2025-06-18,144500,1,Yes,2,3,4,20,9,22,No
+EMP0231,Sewwandi Weerasinghe,Female,41,Sales,Senior Sales Executive,2026-08-06,128500,0,Yes,3,3,3,11,10,44,No
+EMP0232,Kavindi Senanayake,Female,34,Finance,Accounts Assistant,2021-03-21,87500,5,No,2,3,3,25,6,21,No
+EMP0233,Ishara Amarasinghe,Female,47,Finance,Accounts Assistant,2026-04-24,83500,0,No,4,3,3,1,0,22,No
+EMP0234,Kavindi Gunawardena,Female,39,Finance,Accountant,2026-04-17,141000,0,No,4,3,3,14,10,27,No
+EMP0235,Sachini Samarasinghe,Female,32,Operations,Operations Manager,2023-08-14,361000,3,No,1,3,4,3,0,26,No
+EMP0236,Sewwandi Bandara,Female,33,Finance,Finance Manager,2022-04-21,411500,4,No,3,2,4,6,0,6,No
+EMP0237,Dilini Senanayake,Female,38,Operations,Operations Officer,2025-12-20,88500,0,No,3,3,3,2,1,25,No
+EMP0238,Sachini Senanayake,Female,26,Operations,Supervisor,2024-06-09,165500,2,Yes,3,1,3,11,4,40,No
+EMP0239,Priya Dissanayake,Female,44,Customer Service,Team Leader,2017-09-08,170000,9,Yes,2,3,3,2,9,6,No
+EMP0240,Aisha Selvam,Female,44,IT,Software Engineer,2015-08-23,232000,11,No,3,4,3,4,9,29,No
+EMP0241,Thilina Dissanayake,Male,30,Finance,Accounts Assistant,2017-08-28,91000,9,No,4,3,4,21,4,24,No
+EMP0242,Kavitha Wickramasinghe,Female,22,Finance,Accountant,2025-06-16,176500,1,No,3,3,3,22,4,35,No
+EMP0243,Suresh Perera,Male,39,Finance,Accounts Assistant,2025-12-16,93000,0,No,3,4,3,9,2,39,No
+EMP0244,Dilini Hameed,Female,38,Operations,Supervisor,2024-05-18,148500,2,Yes,3,4,3,33,0,16,No
+EMP0245,Ruwan Perera,Male,22,Customer Service,Customer Service Agent,2025-09-19,74000,1,No,3,3,3,19,13,46,No
+EMP0246,Priya De Silva,Female,35,Finance,Accountant,2022-11-20,195500,3,No,2,3,2,2,6,20,No
+EMP0247,Mohamed Gunawardena,Male,36,Customer Service,Team Leader,2019-06-06,153500,7,No,4,3,3,1,3,25,No
+EMP0248,Nethmi Amarasinghe,Female,37,Finance,Accountant,2024-05-06,156500,2,Yes,2,3,4,15,4,26,No
+EMP0249,Sanjaya Amarasinghe,Male,53,Human Resources,HR Assistant,2018-03-05,109500,8,No,4,3,3,5,5,14,No
+EMP0250,Ashan Rahman,Male,45,IT,QA Engineer,2024-03-25,136500,2,Yes,2,3,3,1,9,6,Yes
+EMP0251,Hiruni Gunawardena,Female,42,Customer Service,Customer Service Agent,2021-03-12,78500,5,No,2,2,4,5,7,37,No
+EMP0252,Tharindu Nadarajah,Male,42,IT,QA Engineer,2021-03-23,184500,5,No,4,4,3,10,13,0,No
+EMP0253,Ishara Weerasinghe,Female,33,Sales,Sales Manager,2023-07-10,247500,3,No,4,2,3,10,5,26,Yes
+EMP0254,Nimal Fernando,Male,53,IT,Software Engineer,2011-07-15,272000,15,Yes,3,3,3,1,1,27,No
+EMP0255,Dilshan Bandara,Male,30,Sales,Sales Executive,2023-04-23,117500,3,Yes,4,3,4,7,3,13,No
+EMP0256,Kasun Ismail,Male,28,Finance,Accounts Assistant,2020-01-22,106500,6,Yes,4,4,3,2,4,18,No
+EMP0257,Dilini Weerasinghe,Female,33,Customer Service,Customer Service Agent,2019-09-14,70000,7,No,2,2,3,8,7,21,No
+EMP0258,Chamara Fernando,Male,40,Sales,Senior Sales Executive,2021-02-10,162000,5,No,4,3,3,13,6,20,No
+EMP0259,Kasun Perera,Male,48,Finance,Accounts Assistant,2025-12-22,98500,0,No,3,2,3,4,2,22,Yes
+EMP0260,Tharushi Samarasinghe,Female,39,Finance,Accounts Assistant,2021-05-21,88000,5,Yes,3,1,3,20,9,19,No
+EMP0261,Kumar De Silva,Male,39,IT,Software Engineer,2021-04-30,170500,5,Yes,3,2,2,10,2,25,No
+EMP0262,Tharindu Gunawardena,Male,53,Operations,Operations Manager,2023-06-24,314500,3,Yes,4,3,3,2,9,21,No
+EMP0263,Anjali Herath,Female,34,Operations,Operations Officer,2024-12-03,97000,1,No,3,3,3,4,3,29,No
+EMP0264,Chamara Amarasinghe,Male,37,Sales,Senior Sales Executive,2018-12-08,206000,7,No,2,3,3,1,4,36,No
+EMP0265,Mohamed Jayasinghe,Male,33,Customer Service,Customer Service Agent,2024-07-11,63000,2,Yes,2,3,3,17,8,29,Yes
+EMP0266,Priya Bandara,Female,37,Sales,Sales Executive,2017-10-05,111500,9,No,3,2,2,1,7,19,No
+EMP0267,Fathima Ismail,Female,37,Human Resources,HR Assistant,2024-02-10,89000,2,No,4,2,3,25,3,42,No
+EMP0268,Arjun Amarasinghe,Male,38,Operations,Operations Manager,2023-11-01,270500,3,No,4,2,2,6,9,33,No
+EMP0269,Sachini Selvam,Female,38,Sales,Sales Executive,2023-09-05,91000,3,Yes,3,2,3,1,8,11,Yes
+EMP0270,Thilina Weerasinghe,Male,35,Customer Service,CS Manager,2016-09-08,273500,10,No,1,3,3,4,9,33,No
+EMP0271,Chamodi Wickramasinghe,Female,33,Sales,Sales Executive,2021-05-03,90500,5,No,3,2,3,9,8,34,No
+EMP0272,Hiruni Ismail,Female,22,Finance,Accountant,2025-08-24,173000,1,Yes,4,4,3,18,0,44,No
+EMP0273,Lahiru Perera,Male,40,Finance,Finance Manager,2023-03-25,428000,3,No,2,3,3,1,7,32,No
+EMP0274,Ishara Dissanayake,Female,36,Sales,Sales Executive,2016-02-26,126000,10,Yes,4,2,3,4,6,15,No
+EMP0275,Hiruni Rajan,Female,33,Sales,Sales Executive,2018-07-04,127500,8,Yes,3,2,3,8,0,23,No
+EMP0276,Nadeem Jayasinghe,Male,31,Operations,Operations Officer,2016-02-10,97500,10,Yes,4,2,3,1,8,5,Yes
+EMP0277,Anjali Wickramasinghe,Female,43,Customer Service,Customer Service Agent,2026-09-11,82000,0,No,1,3,3,2,4,35,No
+EMP0278,Sewwandi Cassim,Female,39,Sales,Sales Executive,2021-01-07,114000,5,Yes,3,3,3,9,5,36,No
+EMP0279,Anjali Rajan,Female,34,Operations,Operations Officer,2018-12-20,112500,7,Yes,2,4,3,4,4,27,No
+EMP0280,Mohamed Herath,Male,22,Customer Service,Customer Service Agent,2025-07-20,73000,1,No,1,3,3,12,2,34,Yes
+EMP0281,Kavindi Dissanayake,Female,43,Finance,Accountant,2014-12-24,198000,11,Yes,3,4,3,4,9,21,No
+EMP0282,Imran Perera,Male,27,Finance,Accountant,2024-09-05,196000,2,No,4,3,3,11,8,23,No
+EMP0283,Priya Bandara,Female,45,Customer Service,Team Leader,2022-07-25,151000,4,No,3,3,2,15,0,27,No
+EMP0284,Nimal Bandara,Male,33,Operations,Operations Officer,2020-07-05,85500,6,Yes,4,4,3,4,2,23,No
+EMP0285,Ishara Senanayake,Female,35,Operations,Operations Manager,2023-10-09,345500,3,Yes,4,3,3,7,9,35,Yes
+EMP0286,Sanjaya Rajan,Male,53,Operations,Supervisor,2025-09-28,159000,1,Yes,3,2,3,15,6,16,No
+EMP0287,Imran Cassim,Male,41,IT,Software Engineer,2016-03-14,204000,10,No,3,3,3,1,4,23,No
+EMP0288,Madhavi Samarasinghe,Female,30,Human Resources,HR Assistant,2025-08-01,73500,1,No,3,2,3,3,7,2,No
+EMP0289,Aisha Herath,Female,37,IT,Software Engineer,2025-05-21,185500,1,Yes,4,4,3,2,2,35,No
+EMP0290,Ishara Rahman,Female,42,Operations,Operations Officer,2020-12-19,97000,5,No,2,3,3,4,0,27,Yes
+EMP0291,Nethmi Nadarajah,Female,34,Human Resources,HR Executive,2018-09-20,163500,8,No,1,4,4,2,7,8,No
+EMP0292,Sachini Herath,Female,38,IT,Software Engineer,2024-09-16,203500,2,No,1,4,3,7,4,15,Yes
+EMP0293,Tharushi Dissanayake,Female,29,Sales,Senior Sales Executive,2026-07-02,147500,0,No,1,4,4,12,7,18,No
+EMP0294,Supun Karunaratne,Male,39,Human Resources,HR Assistant,2025-08-29,89500,1,No,3,4,3,15,10,27,No
+EMP0295,Supun Herath,Male,43,Operations,Supervisor,2021-10-06,175500,5,No,3,1,3,9,1,48,No
+EMP0296,Anjali Herath,Female,24,Customer Service,Customer Service Agent,2024-04-26,76500,2,No,2,4,1,11,6,4,No
+EMP0297,Kasun Bandara,Male,35,Human Resources,HR Executive,2024-05-30,118500,2,No,2,4,3,17,11,39,No
+EMP0298,Nadeem Samarasinghe,Male,22,Customer Service,Team Leader,2025-03-15,143000,1,No,3,3,4,12,5,28,No
+EMP0299,Kumar Perera,Male,28,Customer Service,Customer Service Agent,2023-10-09,67000,3,No,3,4,4,4,10,7,No
+EMP0300,Shanthi Amarasinghe,Female,23,Human Resources,HR Assistant,2024-01-15,96500,2,No,4,4,2,6,15,27,No
+EMP0301,Tharindu Gunawardena,Male,47,Operations,Operations Officer,2026-01-16,75000,0,No,3,3,3,1,4,3,No
+EMP0302,Dilini Dissanayake,Female,33,Customer Service,Team Leader,2026-04-30,136500,0,No,3,3,3,24,7,34,No
+EMP0303,Sewwandi Bandara,Female,52,IT,QA Engineer,2021-04-24,199000,5,No,4,2,4,8,6,26,No
+EMP0304,Hiruni Fernando,Female,22,Operations,Operations Officer,2025-07-16,92500,1,No,3,2,3,15,1,32,No
+EMP0305,Priya Dissanayake,Female,32,IT,Software Engineer,2026-05-13,206000,0,Yes,4,3,3,16,6,25,Yes
+EMP0306,Thilina Jayasinghe,Male,40,Human Resources,HR Executive,2020-06-17,167500,6,No,3,3,1,19,11,6,No
+EMP0307,Kavindi Herath,Female,43,IT,QA Engineer,2018-07-01,212000,8,Yes,4,3,3,4,5,16,No
+EMP0308,Tharindu Cassim,Male,29,Operations,Operations Officer,2025-03-03,103500,1,No,3,3,3,7,1,27,No
+EMP0309,Lahiru De Silva,Male,39,Operations,Operations Officer,2019-05-17,100000,7,No,3,2,4,8,6,48,No
+EMP0310,Fathima Rahman,Female,36,Finance,Finance Manager,2023-03-28,381500,3,Yes,3,3,1,11,1,12,Yes
+EMP0311,Shanthi Cassim,Female,37,Finance,Accounts Assistant,2021-12-05,83000,4,Yes,4,4,2,4,3,11,No
+EMP0312,Sewwandi Perera,Female,37,Operations,Operations Officer,2011-12-12,140500,14,Yes,2,3,3,18,13,27,No
+EMP0313,Suresh Samarasinghe,Male,28,IT,Software Engineer,2025-11-15,172000,0,Yes,2,3,3,4,12,27,Yes
+EMP0314,Dilshan Wickramasinghe,Male,44,IT,IT Manager,2023-08-20,399000,3,Yes,4,4,3,1,10,10,No
+EMP0315,Pasindu Fernando,Male,42,Sales,Sales Executive,2020-08-09,94000,6,Yes,2,3,3,32,6,3,No
+EMP0316,Shanthi Selvam,Female,53,IT,Software Engineer,2023-10-23,228000,3,No,2,2,3,4,5,20,No
+EMP0317,Mohamed Ismail,Male,22,Customer Service,Team Leader,2025-05-15,130000,1,No,2,1,4,7,8,6,No
+EMP0318,Nimal Rahman,Male,36,Customer Service,Team Leader,2023-11-02,145000,3,No,3,2,3,10,3,36,No
+EMP0319,Kumar Selvam,Male,38,Sales,Sales Manager,2021-11-01,370500,5,No,2,3,3,9,11,37,No
+EMP0320,Priya De Silva,Female,49,IT,QA Engineer,2026-03-29,164000,0,No,4,3,3,25,11,35,No
+EMP0321,Arjun Senanayake,Male,22,Customer Service,Team Leader,2025-09-23,133000,1,No,1,3,3,3,9,19,No
+EMP0322,Madhavi Rahman,Female,32,Customer Service,CS Manager,2023-01-16,299000,3,No,2,3,3,11,2,0,No
+EMP0323,Sanjaya Karunaratne,Male,32,Sales,Sales Manager,2022-12-13,339000,3,No,2,3,3,1,4,43,No
+EMP0324,Tharindu Nadarajah,Male,42,Finance,Accountant,2026-06-08,151000,0,No,2,2,4,2,7,38,No
+EMP0325,Tharushi Bandara,Female,39,Customer Service,Customer Service Agent,2025-10-03,64500,1,No,3,4,4,9,3,1,No
+EMP0326,Madhavi Jayasinghe,Female,32,IT,Software Engineer,2024-10-04,205500,2,Yes,3,4,4,24,9,40,No
+EMP0327,Aisha Bandara,Female,32,Customer Service,CS Manager,2022-09-14,291500,4,No,3,2,4,5,7,57,No
+EMP0328,Imran Cassim,Male,30,Operations,Operations Officer,2022-08-04,92500,4,Yes,2,2,3,9,0,13,Yes
+EMP0329,Ishara Samarasinghe,Female,33,Sales,Sales Manager,2023-07-30,279500,3,No,2,4,2,1,3,17,No
+EMP0330,Lahiru Jayasinghe,Male,34,Finance,Finance Manager,2012-11-21,463500,13,No,2,4,2,3,10,13,No
+EMP0331,Fathima Cassim,Female,22,IT,Software Engineer,2025-07-12,158000,1,No,2,4,3,4,0,36,No
+EMP0332,Chamara Weerasinghe,Male,34,Customer Service,CS Manager,2023-06-19,281000,3,No,4,1,2,1,1,31,No
+EMP0333,Tharushi Amarasinghe,Female,25,Human Resources,HR Executive,2025-08-23,117000,1,Yes,1,3,3,4,12,20,Yes
+EMP0334,Nuzha Nadarajah,Female,34,IT,Software Engineer,2026-04-01,156500,0,No,1,4,3,14,8,11,Yes
+EMP0335,Shanthi Hameed,Female,28,Human Resources,HR Assistant,2023-02-20,78000,3,Yes,4,2,3,14,0,25,No
+EMP0336,Ravindran Karunaratne,Male,28,Sales,Senior Sales Executive,2022-11-18,141000,3,Yes,2,4,3,6,6,28,No
+EMP0337,Ruwan Samarasinghe,Male,38,Customer Service,Customer Service Agent,2022-07-29,77500,4,Yes,3,3,3,1,6,25,No
+EMP0338,Arjun Jayasinghe,Male,35,Sales,Sales Executive,2020-05-01,103000,6,Yes,3,2,3,11,3,27,Yes
+EMP0339,Kasun Ismail,Male,30,Sales,Sales Executive,2020-06-27,97000,6,No,3,4,3,25,3,30,No
+EMP0340,Chamara Hameed,Male,27,IT,QA Engineer,2026-08-01,154000,0,No,1,3,4,2,5,28,No
+EMP0341,Fathima Bandara,Female,34,Finance,Accounts Assistant,2013-03-24,99500,13,Yes,3,3,3,22,2,19,No
+EMP0342,Dilshan Selvam,Male,30,Sales,Sales Executive,2026-05-06,81000,0,Yes,3,4,3,8,9,19,No
+EMP0343,Pasindu Rahman,Male,41,Operations,Supervisor,2022-07-13,160500,4,No,1,1,3,9,8,34,No
+EMP0344,Mohamed Amarasinghe,Male,37,IT,Software Engineer,2012-02-16,246500,14,No,2,4,2,3,3,41,No
+EMP0345,Fathima Karunaratne,Female,28,IT,Software Engineer,2019-03-28,223500,7,No,3,3,3,1,10,23,No
+EMP0346,Anjali Herath,Female,37,Operations,Operations Officer,2018-07-31,107500,8,Yes,2,3,3,21,10,5,No
+EMP0347,Kavitha Rajan,Female,28,Sales,Sales Executive,2024-10-03,115000,2,No,2,4,4,6,1,32,No
+EMP0348,Sewwandi Jayasinghe,Female,48,Sales,Sales Executive,2023-01-04,120000,3,No,3,2,4,12,8,31,No
+EMP0349,Kasun Weerasinghe,Male,26,Human Resources,HR Assistant,2025-09-14,73000,1,No,4,2,3,8,3,23,Yes
+EMP0350,Sewwandi Samarasinghe,Female,37,Customer Service,Customer Service Agent,2023-07-06,67500,3,No,3,3,4,2,8,24,No
+EMP0351,Anjali Herath,Female,49,Finance,Accounts Assistant,2017-06-19,103000,9,No,3,1,3,6,7,18,No
+EMP0352,Nethmi Selvam,Female,33,Sales,Sales Manager,2014-03-23,421500,12,No,2,4,3,1,8,20,No
+EMP0353,Ravindran Rajan,Male,33,IT,Software Engineer,2014-08-09,200500,12,No,1,2,3,3,1,7,No
+EMP0354,Kavitha De Silva,Female,46,Finance,Accountant,2016-04-30,211500,10,No,2,3,4,4,0,39,No
+EMP0355,Anjali Selvam,Female,39,Sales,Sales Manager,2023-06-25,272000,3,No,3,4,3,12,10,33,No
+EMP0356,Aisha Fernando,Female,37,IT,Software Engineer,2025-08-07,156000,1,Yes,2,4,3,11,6,7,No
+EMP0357,Kavitha Ismail,Female,35,IT,QA Engineer,2025-06-02,163500,1,No,3,3,3,3,4,3,No
+EMP0358,Suresh Hameed,Male,41,IT,IT Manager,2016-12-04,538500,9,Yes,3,3,3,7,10,42,No
+EMP0359,Ruwan Rahman,Male,36,Sales,Senior Sales Executive,2017-03-16,186000,9,No,2,4,3,1,7,22,No
+EMP0360,Nimal Weerasinghe,Male,38,Human Resources,HR Assistant,2019-11-26,84500,6,No,4,4,4,6,6,15,No
+EMP0361,Kasun Karunaratne,Male,45,Operations,Operations Officer,2021-08-22,97000,5,No,3,4,4,26,3,26,No
+EMP0362,Sanjaya Karunaratne,Male,42,Operations,Operations Officer,2025-04-29,91000,1,Yes,3,3,3,15,4,13,No
+EMP0363,Suresh Hameed,Male,27,Human Resources,HR Executive,2026-08-01,128500,0,No,4,2,3,4,8,27,No
+EMP0364,Fathima Samarasinghe,Female,32,Sales,Sales Executive,2022-07-15,97500,4,No,4,3,4,2,1,19,No
+EMP0365,Ruwan Karunaratne,Male,44,Finance,Accounts Assistant,2022-11-25,98500,3,No,4,2,3,21,5,17,Yes
+EMP0366,Aisha Senanayake,Female,46,Sales,Sales Executive,2022-07-29,92000,4,No,2,3,3,1,14,22,No
+EMP0367,Hiruni Samarasinghe,Female,38,Finance,Accounts Assistant,2024-01-04,80500,2,No,3,3,3,1,12,13,No
+EMP0368,Ashan Ismail,Male,26,Customer Service,Team Leader,2026-01-14,136000,0,Yes,2,2,3,1,2,25,Yes
+EMP0369,Chamodi Dissanayake,Female,35,Operations,Supervisor,2025-10-30,123500,1,No,3,3,2,3,4,18,No
+EMP0370,Nuzha Samarasinghe,Female,41,Customer Service,Customer Service Agent,2024-09-27,76500,2,No,4,3,3,7,6,15,No
+EMP0371,Nuzha Gunawardena,Female,25,Finance,Accountant,2025-01-22,164500,1,Yes,3,4,3,1,7,24,No
+EMP0372,Tharindu Hameed,Male,45,Customer Service,Team Leader,2022-12-14,139500,3,Yes,3,3,3,1,2,28,No
+EMP0373,Kumar De Silva,Male,32,Sales,Senior Sales Executive,2024-01-29,168000,2,Yes,1,3,4,4,12,29,No
+EMP0374,Supun Selvam,Male,22,Finance,Accountant,2025-09-04,165500,1,No,4,3,3,3,9,22,No
+EMP0375,Aisha Rahman,Female,37,Human Resources,HR Assistant,2023-07-24,75500,3,No,3,3,3,2,6,30,No
+EMP0376,Dilshan Ismail,Male,41,Sales,Sales Executive,2020-11-29,123000,5,Yes,3,3,2,24,8,31,No
+EMP0377,Arjun Amarasinghe,Male,40,Sales,Sales Executive,2025-09-23,108500,1,No,3,1,3,32,6,10,No
+EMP0378,Hiruni Cassim,Female,39,Human Resources,HR Assistant,2011-04-09,102500,15,Yes,1,3,3,3,10,4,No
+EMP0379,Kavitha Bandara,Female,29,Finance,Accounts Assistant,2021-12-12,98500,4,Yes,4,3,3,2,6,10,No
+EMP0380,Fathima Dissanayake,Female,35,IT,IT Manager,2023-01-02,466000,3,No,4,2,4,9,9,64,No
+EMP0381,Nadeem Perera,Male,38,Sales,Senior Sales Executive,2021-07-27,162500,5,Yes,3,3,4,2,8,15,Yes
+EMP0382,Hiruni Gunawardena,Female,28,Customer Service,Customer Service Agent,2020-07-26,77000,6,No,4,3,3,8,3,24,No
+EMP0383,Faizal Herath,Male,39,Customer Service,Customer Service Agent,2019-01-23,95000,7,No,4,2,4,6,3,20,No
+EMP0384,Nadeem Bandara,Male,43,Sales,Sales Executive,2022-07-18,103500,4,No,3,2,3,35,10,0,No
+EMP0385,Kavitha De Silva,Female,44,Operations,Operations Officer,2024-10-28,92500,2,No,4,2,4,5,6,25,No
+EMP0386,Nuzha Cassim,Female,46,Finance,Accounts Assistant,2023-07-18,107000,3,No,4,4,3,17,12,27,No
+EMP0387,Nethmi Wickramasinghe,Female,29,Customer Service,Customer Service Agent,2024-07-29,62500,2,No,4,3,3,6,5,28,No
+EMP0388,Hiruni Rahman,Female,42,Operations,Operations Officer,2023-12-09,86500,2,Yes,3,3,3,6,0,14,No
+EMP0389,Dilshan Dissanayake,Male,34,Human Resources,HR Executive,2024-11-27,125500,1,No,4,3,4,9,3,39,No
+EMP0390,Mohamed De Silva,Male,54,Sales,Sales Executive,2015-04-08,121500,11,Yes,2,2,2,5,2,39,Yes
+EMP0391,Aisha Fernando,Female,31,Finance,Accounts Assistant,2016-07-23,95500,10,No,1,4,4,18,10,11,Yes
+EMP0392,Dilini Cassim,Female,36,Operations,Operations Officer,2010-12-18,113000,15,No,1,3,3,7,4,28,No
+EMP0393,Sewwandi Weerasinghe,Female,22,Sales,Senior Sales Executive,2025-06-01,128500,1,No,3,2,4,16,7,32,No
+EMP0394,Aisha Jayasinghe,Female,32,Operations,Supervisor,2021-05-18,146500,5,Yes,4,3,4,15,3,14,Yes
+EMP0395,Supun Hameed,Male,42,Operations,Operations Manager,2020-08-20,322500,6,No,1,3,2,10,6,27,No
+EMP0396,Anjali Rahman,Female,30,Customer Service,Team Leader,2021-08-23,157000,5,No,4,2,3,5,1,42,No
+EMP0397,Nadeem Karunaratne,Male,34,Customer Service,Customer Service Agent,2013-08-12,104000,13,Yes,4,3,3,4,10,35,No
+EMP0398,Nethmi Fernando,Female,39,Finance,Accounts Assistant,2018-02-17,111000,8,No,4,2,4,2,2,49,No
+EMP0399,Ashan Jayasinghe,Male,27,Customer Service,Customer Service Agent,2020-05-20,94500,6,Yes,2,3,3,2,7,19,Yes
+EMP0400,Nethmi Bandara,Female,28,Sales,Senior Sales Executive,2019-07-03,188500,7,Yes,4,2,3,1,3,42,Yes
